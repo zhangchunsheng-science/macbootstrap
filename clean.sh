@@ -3,13 +3,13 @@ rm -rf /Applications/MacVim.app/
 rm -rf /Applications/Snap.app/
 rm -f /usr/local/bin/gvim
 
-brew cask uninstall iterm2
-brew cask uninstall sourcetree
-brew cask uninstall google-chrome
-brew cask uninstall coderunner
-brew cask uninstall the-unarchiver
-brew cask uninstall visual-studio-code
-brew cask uninstall jetbrains-toolbox
+brew uninstall iterm2 --cask
+brew uninstall sourcetree --cask
+brew uninstall google-chrome --cask
+brew uninstall coderunner --cask
+brew uninstall the-unarchiver --cask
+brew uninstall visual-studio-code --cask
+brew uninstall jetbrains-toolbox --cask
 brew uninstall wget
 brew uninstall gnu-sed
 brew uninstall autojump
