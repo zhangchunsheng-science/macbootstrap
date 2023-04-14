@@ -60,7 +60,7 @@ function handle_person_profile() {
 }
 
 function install_karabiner() {
-    brew cask install karabiner-elements
+    brew install karabiner-elements --cask
 }
 
 # Write script you want to use in the `if` block
