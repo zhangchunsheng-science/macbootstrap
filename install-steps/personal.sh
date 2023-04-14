@@ -31,11 +31,11 @@ function init_git() {
 
 function install_personal_apps() {
     # install setapp
-    brew cask install setapp
+    brew install setapp --cask
     open "$(find /usr/local/Caskroom/setapp/ -name "*.app")"
 
     # install google drive file stream
-    # brew cask install google-drive-file-stream
+    # brew install google-drive-file-stream --cask
 }
 
 function setup_mysql() {
