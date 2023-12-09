@@ -2,7 +2,7 @@
 
 我列出了一堆平时使用 Mac 电脑或者开发过程中容易遇到的痛点，烦请各位读者自行搜索一下，你的解决方案是什么，如果没有好的解决方法，那么 macbootstrap 或许可以拯救你。
 
-如果你还有别的痛点，但我没有在下面列出来，欢迎[提交 issue](https://github.com/bestswifter/macbootstrap/issues/new)，如果我认为这是一个比较常见的痛点，将在后续版本中为你解决。
+如果你还有别的痛点，但我没有在下面列出来，欢迎[提交 issue](https://github.com/zhangchunsheng-science/macbootstrap/issues/new)，如果我认为这是一个比较常见的痛点，将在后续版本中为你解决。
 
 1. 不了解 Mac 上的包管理神器 Homebrew，或者每次换新电脑后都要重新配置一遍环境
 2. HomeBrew 的源托管在官网，每次更新都慢如蜗牛
